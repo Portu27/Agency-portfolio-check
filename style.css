@@ -62,7 +62,7 @@ h2 {
 
 
 
-@media (max-width:618px) {
+@media (min-width:1080px)(max-width:2400px) {
   
   .We-are-a {
     display: inline;
